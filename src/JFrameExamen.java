@@ -566,7 +566,7 @@ public class JFrameExamen extends JFrame implements Runnable, KeyListener {
     	iVidas = Integer.parseInt(brwEntrada.readLine());
         // Lee la direccion que tenia Nena
         iDireccion = Integer.parseInt(brwEntrada.readLine());;
-        // Se asiga la posi ción x de Nena en la linea 3
+        // Se asiga la posición x de Nena en la linea 3
         perNena.setX(Integer.parseInt(brwEntrada.readLine()));
         // Se asigna la posicion y de NEna en la linea 4
         perNena.setY(Integer.parseInt(brwEntrada.readLine()));
